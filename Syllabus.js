@@ -61,6 +61,7 @@ class Syllabus{
             // THIS IS THE ACTUAL ONE : image(syllabusImage, displayWidth/4  +100 ,displayHeight - displayHeight, displayWidth - 800, displayHeight - 150);
             imageMode(CENTER)
             image(syllabusImage, displayWidth/2, displayHeight/2, displayWidth*2, displayHeight*2);
+            console.log("displays the new image code");
             
 
             //THIS -- image(syllabusImage, displayWidth ,displayHeight, displayWidth, displayHeight );
